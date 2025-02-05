@@ -11,7 +11,6 @@ Also you can use for free [Nodepay+ bot](https://github.com/blacksmith69-glitch/
 
 ![image](https://img4.teletype.in/files/3b/88/3b886c4d-5b54-4463-bddd-3ce86342d666.png)
 
-### Also can be useful: [Grass Final Checker](https://github.com/MsLolita/Grass-Checker) or [Grass Claimer](https://github.com/MsLolita/Grass-Claimer)
 
 
 # 🔹Grass Auto Reger&Farm 🔹
