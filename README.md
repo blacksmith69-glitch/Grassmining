@@ -3,11 +3,11 @@
 
 Discover the latest `<crypto/>` moves in my Telegram Channel:
 
-[![My Channel 🥰](https://img.shields.io/badge/Web3_Enjoyer_|_Subscribe_🥰-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/web3_enjoyer_club) 
+[![My Channel 🥰](https://img.shields.io/badge/Web3_Enjoyer_|_Subscribe_🥰-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cryptowitharyanog) 
 
 Cheapest [proxies and servers](https://teletype.in/@web3enjoyer/4a2G9NuHssy) which fits for  on [grass.io](https://app.getgrass.io/register/?referralCode=erxggzon61FWrJ9).
 
-Also you can use for free [Nodepay+ bot](https://github.com/MsLolita/Nodepay_plus) with ui.
+Also you can use for free [Nodepay+ bot](https://github.com/blacksmith69-glitch/Nodepay---cryptowithAryanog-) with ui.
 
 ![image](https://img4.teletype.in/files/3b/88/3b886c4d-5b54-4463-bddd-3ce86342d666.png)
 
