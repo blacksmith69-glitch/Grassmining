@@ -357,9 +357,10 @@ async def device_input(existing_count: int) -> list:
 
 async def main() -> None:
     print(f"""{Fore.YELLOW + Style.BRIGHT}
-FOREST ARMY -- https://t.me/forestarmy [ ITSMESATYAVIR ]
+𝐅𝐎𝐑𝐄𝐒𝐓𝐀𝐑𝐌𝐘 -- 𝐡𝐭𝐭𝐩𝐬://𝐭.𝐦𝐞/𝐟𝐨𝐫𝐞𝐬𝐭𝐚𝐫𝐦𝐲
+ [ ITSMESATYAVIR ]
 {Style.RESET_ALL}""")
-    print(f"{Fore.LIGHTGREEN_EX}GrassBot Shreya Ke Liye {Style.RESET_ALL}")
+    print(f"{Fore.LIGHTGREEN_EX}GrassBot - AUTO FARMING {Style.RESET_ALL}")
     print(f"{Fore.RED}========================================{Style.RESET_ALL}")
     setup_logger()
 
