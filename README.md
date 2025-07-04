@@ -1,6 +1,6 @@
-```git clone https://github.com/itsmesatyavir/grass.git```
+```git clone https://github.com/blacksmith69-glitch/Grassmining.git```
 
-```cd grass```
+```cd Grassmining```
 
 ```nano proxy.txt```
 
